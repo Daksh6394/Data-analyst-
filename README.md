@@ -1,4 +1,4 @@
-# Data-analyst-
+# Analyst
 project 1(HR -Analytics -Report)https://1drv.ms/u/s!AgsayTlS3KP_bA-WWuoIcTPDGd8?e=BBCj2g
 This Hr analytics report invlves a deep analysis of dataset of company named ATLIQ
 the report perfectly give the insights of employees working in the company along with their preferences of how exactly they wnat to work
@@ -12,3 +12,11 @@ Stage2=the cleaning and loading stage ,being a huge datset with various prefernc
 Stage3=It involves creating various measure table in a powerful insight making tool power BI where the data undergoes various transformation by DAX formulas 
 
 Stage4-Last but not the least the way of representing data this stage mainly focusses on creating charts and visual reprsentation for the Client that is HR so that the HR can draw insights that when the employyes are mostly taking sick leave or hav eprefernce over WFH 
+
+Project 2 (Verification Of resilient supply chain)
+
+Conducted a comprehensive analysis of 15 barriers to supply chain resilience in manufacturing.
+
+Utilized Grey Relational Analysis (GRA) to rank and prioritize key challenges, improving logistics efficiency by 50%.
+
+Provided data-driven insights for sustainability, logistics constraints, and operational flexibility.
